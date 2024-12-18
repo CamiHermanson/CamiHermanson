@@ -1,7 +1,8 @@
 # Oi, Web! 
 
 
-👩‍💻💫 Meu nome é Camila Hermanson e sou UI/UX Designer, formada em __Comunicação Social - Publicidade e Propaganda__. Entusiasta de _criatividade_, _empatia_ e _tecnologia_, e dos __produtos__ que essa colaboração pode derivar.
+👩‍💻💫 Meu nome é Camila Hermanson e sou UI/UX Designer, formada em __Comunicação Social - Publicidade e Propaganda__. 
+Entusiasta de _criatividade_, _empatia_ e _tecnologia_, e dos __produtos__ que essa colaboração pode derivar.
 
 📒✨ Além das boas práticas de _experiência e interface do usuário_ que estudo continuamente, busco me familiarizar com conceitos de __Desenvolvimento Front-End__ para melhor colaborar em equipes multidisciplinares. Vamos nos conectar?
 
