@@ -7,7 +7,7 @@ Entusiasta de _criatividade_, _empatia_, _tecnologia_ e principalmente, de criar
 
 📒✨ Estudo boas práticas de __Experiência e Interface do Usuário__, como também busco me familiarizar com conceitos de __Desenvolvimento de Software__ e __Negócios__ para melhor colaborar em equipes multidisciplinares. Vamos nos _conectar_?
 
-# Habilidades.
+# Habilidades
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000000&color=FAD787)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=000000&color=FAD787) 
