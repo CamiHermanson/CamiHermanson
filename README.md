@@ -1,10 +1,11 @@
 # Oi, Web! 
 
+👩‍💻💫 Meu nome é Camila Hermanson, graduada em _Comunicação Social - Publicidade e Propaganda_ pela __UNINOVE__ e 
+Pós-graduanda em _Engenharia de Software_ pela __USP/ESALQ__.
 
-👩‍💻💫 Meu nome é Camila Hermanson e sou UI/UX Designer, formada em __Comunicação Social - Publicidade e Propaganda__. 
-Entusiasta de _criatividade_, _empatia_ e _tecnologia_, e dos __produtos__ que essa colaboração pode derivar.
+Entusiasta de _criatividade_, _empatia_, _tecnologia_ e principalmente, de criar __produtos__ derivados desta colaboração.
 
-📒✨ Além das boas práticas de _experiência e interface do usuário_ que estudo continuamente, busco me familiarizar com conceitos de __Desenvolvimento Front-End__ para melhor colaborar em equipes multidisciplinares. Vamos nos conectar?
+📒✨ Estudo boas práticas de _experiência e interface do usuário_, como também busco me familiarizar com conceitos de __Desenvolvimento de Software__ e __Negócios__ para melhor colaborar em equipes multidisciplinares. Vamos nos conectar?
 
 # Habilidades.
 
