@@ -5,7 +5,7 @@ Pós-graduanda em _Engenharia de Software_ pela __USP/ESALQ__.
 
 Entusiasta de _criatividade_, _empatia_, _tecnologia_ e principalmente, de criar __produtos__ derivados desta colaboração.
 
-📒✨ Estudo boas práticas de _experiência e interface do usuário_, como também busco me familiarizar com conceitos de __Desenvolvimento de Software__ e __Negócios__ para melhor colaborar em equipes multidisciplinares. Vamos nos conectar?
+📒✨ Estudo boas práticas de __Experiência e Interface do Usuário__, como também busco me familiarizar com conceitos de __Desenvolvimento de Software__ e __Negócios__ para melhor colaborar em equipes multidisciplinares. Vamos nos _conectar_?
 
 # Habilidades.
 
